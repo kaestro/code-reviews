@@ -1,6 +1,7 @@
 1. https://medium.com/@dareobasanjo/5-things-i-learned-about-leadership-from-the-death-rebirth-of-microsoft-3eaf42567061
 2. https://medium.com/towards-data-science/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41
 3. https://medium.com/educative/taylor-swift-ticketmaster-meltdown-a-system-design-analysis-cd326f7ed57b
+4. https://medium.com/dev-publicity/advice-to-my-younger-self-and-you-after-20-years-in-programming-a3a2ccc7a942
 
 
 ## 마이크로소프트의 죽음과 재탄생을 통해 내가 리더십에 대해 배운 5가지
@@ -32,3 +33,16 @@
   * 대기실을 없애고, 구매 시간 제한을 설정한다.
 * 제 3자 의존성
 * 시스템은 가장 약한 링크만큼 강력하다.
+
+## Advice to my younger self and you after 20 years in programming
+: 20년간의 프로그래밍 경험을 토대로, 젊은 개발자들에게 조언
+
+일반적으로 많이 하는 조언과 동시에, 하지 않는 조언들도 있다. 인상 깊었던 부분들은 다음 정도.
+
+* 이익을 창출하는 것을 생각하라
+* 초기 기술에 참가하고, 죽어가는 기술에서 벗어나라
+  * https://survey.stackoverflow.co/2023/#section-salary-salary-and-experience-by-language
+* 응용보다 과학을 선택하라. 과학자 1인당 필요한 점점 더 적은 프로그래머가 필요하다.
+* IT 업계에서 선두 기업에서 근무하는 것은 차이가 크다.
+* '중요한' 오픈 소스에 기여하라
+* 미친듯이 공개하라.
