@@ -1,0 +1,1 @@
+# https://medium.com/illuminations-mirror/destroying-everything-makes-it-better-the-chaos-monkey-principle-3bc845a76cc4
