@@ -6,6 +6,7 @@
 6. https://levelup.gitconnected.com/github-vs-gitlab-which-is-better-in-2024-1489614b9a23
 7. https://levelup.gitconnected.com/how-to-design-an-efficient-idempotency-api-e664fa2954bb
 8. https://medium.com/@rphilogene/top-10-platform-engineering-tools-you-should-consider-in-2024-892e6e211b85
+9. https://medium.com/@profgalloway/quitting-time-1e106235e586
 
 
 ## 모든 것을 파괴하는 것이 더 나아지게 만든다: 카오스 몽키
@@ -70,3 +71,6 @@ redis와 같은 캐시 서버를 두어 중복 데이터가 쌓이지 않도록 
 ...
 
 읽는중
+
+## 2024년 상위 15가지 소프트웨어 개발 동향
+: AI, cyber security, ar/vr 등을 포함하는 15개 현재 소프트웨어 개발 트렌드
