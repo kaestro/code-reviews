@@ -7,6 +7,7 @@
 7. https://levelup.gitconnected.com/how-to-design-an-efficient-idempotency-api-e664fa2954bb
 8. https://medium.com/@rphilogene/top-10-platform-engineering-tools-you-should-consider-in-2024-892e6e211b85
 9. https://medium.com/@profgalloway/quitting-time-1e106235e586
+10. https://medium.com/artificial-corner/i-tried-multiple-ai-coding-assistants-these-are-the-best-bb4d6a735fc1
 
 
 ## 모든 것을 파괴하는 것이 더 나아지게 만든다: 카오스 몽키
@@ -67,10 +68,17 @@ redis와 같은 캐시 서버를 두어 중복 데이터가 쌓이지 않도록 
 3. Qovery: IDP(Internal Development Platform)
 4. GitLab CI: CI/CD 툴
 5. Port: Developer Portal
-
 ...
 
-읽는중
 
 ## 2024년 상위 15가지 소프트웨어 개발 동향
 : AI, cyber security, ar/vr 등을 포함하는 15개 현재 소프트웨어 개발 트렌드
+
+## 여러 AI 코딩 도우미를 사용해 보았습니다. 이것들은 최고입니다.
+: CoPilot을 포함한 여러 AI 코딩 도우미를 사용해 본 후, 그 중에서 최고라고 생각되는 것들에 대한 소개.
+
+1. CoPilot
+2. Tabnine
+3. Codium AI
+4. AWS Code Whisperer
+5. ChatGPT/Bard
