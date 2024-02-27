@@ -1,6 +1,7 @@
 1. https://levelup.gitconnected.com/system-design-interview-question-design-spotify-4a8a79697dda
 2. https://medium.com/@danielbuilescu/5-python-coding-errors-that-are-killing-your-speed-and-how-to-fix-them-today-8064f4d32e20
 3. https://medium.com/@mayilb77/design-a-real-time-leaderboard-system-for-millions-of-users-08b96b4b64ce
+4. https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42
 
 ---
 
@@ -26,3 +27,15 @@
 : 수백만명의 사용자를 위한 실시간 리더보드 시스템 디자인하기
 
 수백만명 단위의 사용자를 위한 리더보드 시스템을 디자인할 때, 수치상으로 목표로하는 결과를 얻으려면 rdbms, redis sorted set, kafka 등의 시스템을 통해 어떻게 해야하는지에 대한 생각을 제시한다.
+
+---
+
+## 자바스크립트는 왜 프로토타입을 선택했을까?
+: 클래스가 아니라 프로토타입을 선택한 철학적인 논의
+
+저자는 클래스는 플라톤의 이데아적인 관점에서 객체를 정의하는 것이라면, 프로토타입은 비튜겐슈타인의 전형적인 예시를 통해 객체를 정의하는 것이라고 설명한다. 객체를 분류할 때 공통된 것이 있다고 생각하느냐, 대표적인 것과 유사하느냐에 따라 분류하느냐로 생각하느냐는 기준을 통해 우리는 개발을 할 때 방향을 정할 수 있다는 것이다.
+
+이처럼 개발 과정에서 해결책으로 여러가지 중 하나를 선택할 때, 왜 그것을 선택하는지에 대해 충분하게 고민하는 방법에 대해서 생각해보게 되는 글이다.
+
+---
+
