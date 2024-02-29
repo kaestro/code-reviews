@@ -2,6 +2,8 @@
 2. https://medium.com/@danielbuilescu/5-python-coding-errors-that-are-killing-your-speed-and-how-to-fix-them-today-8064f4d32e20
 3. https://medium.com/@mayilb77/design-a-real-time-leaderboard-system-for-millions-of-users-08b96b4b64ce
 4. https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42
+5. https://medium.com/@ignacio.de.gregorio.noblejas/google-has-finally-dethroned-chatgpt-87a8f8c10d92
+6. https://medium.com/thedeephub/rust-a-new-titan-in-data-science-d449463078b2
 
 ---
 
@@ -39,3 +41,16 @@
 
 ---
 
+## Google has finally dethroned ChatGPT
+: Gemini 1.5가 MLLM을 통해 세대간 도약으로 ChatGPT를 앞서는 성과를 내는 데 성공했다는 기사
+
+Gemini 1.5에 대해서 사실 사용해 본 적이 없고, 크게 기대하지 않고 있었던 상태였다. 이번 기사를 통해 Gemini 1.5가 기술적으로 ChatGPT를 앞서는 부분들이 상당하단 것을 알게 돼 한 번 사용해 볼까하는 생각이 들었다.
+
+사용해보고 괜찮다면 이를 통한 code generator 기능이 나오는 것을 기대해본다.
+
+---
+
+## Rust: A New Titan in Data Science
+: Rust가 데이터 사이언스 관점에서 어떻게 장점을 가지는지에 대한 분석 글
+
+최근에 Rust가 각광받고 있는 인상을 받는다. 에러도 적게 나고, 속도도 빠르고, 동시성도 구현하기에 유리하다. 그렇다 하더라도 구체적으로 이번 처럼 다른 언어(python)과의 비교를 통해 장단점을 분석하는 글을 보게 돼 이해가 더 잘 됐고, 더 관심을 가지게 됐다.
