@@ -144,3 +144,13 @@ func (c *CurrentConditionDisplay) Update(subject interface{}) {
     }
 }
 ```
+
+# Algorithms v3 - Week 3
+
+## https://github.com/kaestro/algorithms_v3/commit/5309222eb2af9bb8cc830a05ebe554f870f2ffb3
+
+beautiful array라는 배열의 수들에서 특정 조건을 만족하는 원소들만을 모아 subset을 만드는 문제. 일반적인 loop을 통해 문제를 해결하려 할 경우 O(n!)의 Time Complexity를 필요로 하나, Backtracking을 사용할 경우 O(k) 즉 조건을 만족하는 순열의 개수만큼으로 줄일 수 있다.
+
+이 때 조건을 만족하는 순열의 개수보다 적게 확인하고 답을 구하는 방법이 존재하지 않을 경우 backtracking이 가장 빠르게 문제의 답을 해결하는 방법이라 할 수 있다.
+
+backtracking은 알고리즘 기법 중, 새로운 조건을 만족하는 경우에만 진행하고 그렇지 않은 경우에는 이전 상태로 돌아가는 방법이다. 이 때, 이전 상태로 돌아가는 방법은 stack을 사용하거나, recursive call을 사용하는 방법이 있다.
