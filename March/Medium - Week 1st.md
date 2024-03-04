@@ -1,5 +1,7 @@
 1. https://lab.scub.net/architecture-patterns-sharding-09f759150d3d
 2. https://medium.com/@dmosyan/handling-partial-failure-in-microservices-applications-2314d3093edb
+3. https://kproductmanager.medium.com/how-i-got-a-job-in-42-days-in-2024-job-searching-journey-bc8ba23b2f59
+4. https://levelup.gitconnected.com/30-python-concepts-i-wish-i-knew-way-earlier-3add72af6433
 
 ---
 
@@ -26,3 +28,17 @@
 4. circuit breakers
 5. fallbacks
 6. limit number of queued requests
+
+---
+
+## How I Got a Job in 42 Days in 2024: Job Searching Journey
+: 2024년에 42일 만에 취직한 경험담
+
+linkedin을 활용해서 오로지 추천만으로 42일만에 취직에 성공한 경험담인데, 이처럼 주변의 도움을 받는 네트워크를 형성하는 노력을 하는 것이 필요하다는 것을 알 수 있었다.
+
+---
+
+## 30 Python Concepts I Wish I Knew Way Earlier
+: 파이썬을 사용할 때 유용한 팁 30가지
+
+몰랐던 내용들이 꽤 있어서 알아두고 넘어가면 좋을만한 것들이 많았다.
