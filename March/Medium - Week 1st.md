@@ -4,6 +4,8 @@
 4. https://levelup.gitconnected.com/30-python-concepts-i-wish-i-knew-way-earlier-3add72af6433
 5. https://medium.com/musinsa-tech/journey-of-a-frontend-monorepo-8f5480b80661
 6. https://bootcamp.uxdesign.cc/dont-make-this-common-job-interview-mistake-cf0a22aedd02
+7. https://medium.com/artificial-corner/heres-why-i-still-don-t-buy-the-hype-of-google-gemini-16ed78293975
+8. https://medium.com/the-nuance/why-time-seems-to-pass-more-quickly-as-you-age-and-how-to-slow-it-down-again-539627ed9479
 
 ---
 
@@ -64,4 +66,16 @@ linkedin을 활용해서 오로지 추천만으로 42일만에 취직에 성공�
 그리고 이런 내가 도움이 되는 사람이란 이야기를 하기 위한 핵심은 상대방에 대한 관심과 이해를 통해 상대방의 입장에서 어떤 부분이 도움이 될 수 있는지를 찾아내는 것이라고 생각한다.
 
 ---
+
+## Here’s Why I Still Don’t Buy the Hype of Google Gemini
+: 구글 제미나이가 과장광고라는 비판
+
+얼마 전 구글 제미나이가 어떤 면에서 gpt를 앞서는지에 대한 이야기를 읽었고, 주변에도 이것에 대해 어떻게 생각하는지에 대해 물었을 때 부정적인 반응이 돌아왔다. 이에 대한 세부적인 디테일 이야기가 여기에 담겨있는데 내가 봤었던 영상이 어떤 부분에서 과장광고라 할 만하며 그 물건 조차 아직 사용 가능한 물건이 아니란 것을 알게 되니 배신감도 들었다.
+
+---
+
+## Why Time Seems to Pass More Quickly as You Age and How to Slow It Down Again
+: 나이가 들수록 시간이 빨리 흐르는 이유와 그것을 늦추는 방법에 대한 이야기
+
+사람이 시간을 길게 느끼는 것과 짧게 느끼는 것은 얼마나 새로운 일을 하느냐와 연관이 깊다고 한다. 익숙하고 일상적인 일을 많이 할 수록 우리는 시간이 짧다고 느낀다는 것이다. 새로운 일을 하는 일은 항상 힘들고 불편하다. 그렇지만 여러가지 이유로 새로운 일에, 취미에, 공간에, 사람에 도전하는 것은 내 삶을 풍요롭게 하는 일이다.
 
