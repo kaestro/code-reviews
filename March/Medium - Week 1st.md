@@ -6,6 +6,7 @@
 6. https://bootcamp.uxdesign.cc/dont-make-this-common-job-interview-mistake-cf0a22aedd02
 7. https://medium.com/artificial-corner/heres-why-i-still-don-t-buy-the-hype-of-google-gemini-16ed78293975
 8. https://medium.com/the-nuance/why-time-seems-to-pass-more-quickly-as-you-age-and-how-to-slow-it-down-again-539627ed9479
+9. https://medium.com/proandroiddev/stop-debating-in-code-reviews-start-enforcing-with-lint-rules-6632c907ea94
 
 ---
 
@@ -79,3 +80,10 @@ linkedin을 활용해서 오로지 추천만으로 42일만에 취직에 성공�
 
 사람이 시간을 길게 느끼는 것과 짧게 느끼는 것은 얼마나 새로운 일을 하느냐와 연관이 깊다고 한다. 익숙하고 일상적인 일을 많이 할 수록 우리는 시간이 짧다고 느낀다는 것이다. 새로운 일을 하는 일은 항상 힘들고 불편하다. 그렇지만 여러가지 이유로 새로운 일에, 취미에, 공간에, 사람에 도전하는 것은 내 삶을 풍요롭게 하는 일이다.
 
+
+---
+
+## Stop Debating in Code Reviews, Start Enforcing with Lint Rules
+: Konsist라는 정적 코드 분석 도구를 이용하여 협업을 개선하자는 이야기.
+
+협업을 시작하면서 생산성을 높일 수 있는 여러가지 방법에 대해 고민하고 있는 중이다. 현재 프로젝트에 이와 같은 분석 도구를 사용할 수 있으면 좋을 것 같다는 생각을 하게 되었고, 적용해봐야겠다.
