@@ -2,6 +2,7 @@
 2. https://itnext.io/modern-git-commands-and-features-you-should-be-using-6ee65667e62b
 3. https://medium.com/apache-kafka-from-zero-to-hero/apache-kafka-guide-1-introduction-28142f8574ee
 4. https://medium.com/@MilanJovanovicTech/what-is-a-modular-monolith-babd989a4ea2
+5. https://medium.com/@jankammerath/the-ai-dilemma-when-large-language-model-training-reaches-a-dead-end-e2cf1de4a2ad
 
 ---
 
@@ -36,3 +37,9 @@ Kafka를 메시지 큐로 사용하려고 고민하고 있는 상황에서 이�
 현재 내가 작업하고 있는 두 프로젝트 중 하나는 모듈형 모놀리스이고, 나머지 하나는 마이크로 서비스를 지향하고 있는 중이다. 이와 관련해서 지향하는 바가 맞는지에 대해 고민하고 있는 부분이 있었는데 아무래도 모놀리스가 초기 개발이 더 용이한 점이 많기 때문이다.
 
 두번째 프로젝트를 일단 모놀리스로 시작하고 나중에 마이크로 서비스로 전환하는 것이 더 좋지 않을까라는 생각이 들었다.
+
+---
+
+## The AI Dilemma: When Large Language Model Training Reaches a Dead End
+
+LLM을 통해 사람이 대체될 것이냐는 의문들에 대한 답변들 중 하나로 볼 괜찮은 글
