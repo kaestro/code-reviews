@@ -3,6 +3,8 @@
 3. https://medium.com/apache-kafka-from-zero-to-hero/apache-kafka-guide-1-introduction-28142f8574ee
 4. https://medium.com/@MilanJovanovicTech/what-is-a-modular-monolith-babd989a4ea2
 5. https://medium.com/@jankammerath/the-ai-dilemma-when-large-language-model-training-reaches-a-dead-end-e2cf1de4a2ad
+6. https://medium.com/kpmg-uk-engineering/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0
+7. https://levelup.gitconnected.com/dynamically-scale-your-kafka-virtual-clusters-a3d59157be9f
 
 ---
 
@@ -43,3 +45,19 @@ Kafka를 메시지 큐로 사용하려고 고민하고 있는 상황에서 이�
 ## The AI Dilemma: When Large Language Model Training Reaches a Dead End
 
 LLM을 통해 사람이 대체될 것이냐는 의문들에 대한 답변들 중 하나로 볼 괜찮은 글
+
+
+---
+
+## You Should Stop Writing Dockerfiles Today. Do This Instead.
+: Dockerfile을 직접 작성하는 대신 docker init을 사용하라는 글
+
+최근 컨테이너화를 하면서 docker file을 작성하는데 꽤나 골머리를 썩고 있는 중이었다. 이에 대한 괜찮은 솔루션이 제안돼 기쁘고 조만간 채용해봐야겠다.
+
+
+---
+
+## Dynamically Scale Your Kafka Virtual Clusters
+: Kafka의 가상 클러스터를 동적으로 확장하는 방법에 대한 글
+
+Kafka를 현재 메시지 큐로 사용하려고 하는 입장에서, 이를 동적으로 확장하는 방법에 대한 글은 나중에 다시 참고하면 좋을 것이라는 생각이 들었다. 
