@@ -1,13 +1,17 @@
-1. https://medium.com/@dmosyan/complex-cloud-gaming-infrastructure-at-facebook-d2ed848ea967
-2. https://itnext.io/modern-git-commands-and-features-you-should-be-using-6ee65667e62b
-3. https://medium.com/apache-kafka-from-zero-to-hero/apache-kafka-guide-1-introduction-28142f8574ee
-4. https://medium.com/@MilanJovanovicTech/what-is-a-modular-monolith-babd989a4ea2
-5. https://medium.com/@jankammerath/the-ai-dilemma-when-large-language-model-training-reaches-a-dead-end-e2cf1de4a2ad
-6. https://medium.com/kpmg-uk-engineering/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0
-7. https://levelup.gitconnected.com/dynamically-scale-your-kafka-virtual-clusters-a3d59157be9f
-8. https://levelup.gitconnected.com/feature-flagging-the-not-so-secret-weapon-of-agile-development-b21e06e04c97
-9. https://forge.medium.com/how-to-become-the-best-in-the-world-at-something-f1b658f93428
-10. https://levelup.gitconnected.com/10-must-have-vs-code-extensions-for-developers-7ddc22d81117
+# Weekly Medium Articles - Week 2nd of March
+
+1. <https://medium.com/@dmosyan/complex-cloud-gaming-infrastructure-at-facebook-d2ed848ea967>
+2. <https://itnext.io/modern-git-commands-and-features-you-should-be-using-6ee65667e62b>
+3. <https://medium.com/apache-kafka-from-zero-to-hero/apache-kafka-guide-1-introduction-28142f8574ee>
+4. <https://medium.com/@MilanJovanovicTech/what-is-a-modular-monolith-babd989a4ea2>
+5. <https://medium.com/@jankammerath/the-ai-dilemma-when-large-language-model-training-reaches-a-dead-end-e2cf1de4a2ad>
+6. <https://medium.com/kpmg-uk-engineering/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0>
+7. <https://levelup.gitconnected.com/dynamically-scale-your-kafka-virtual-clusters-a3d59157be9f>
+8. <https://levelup.gitconnected.com/feature-flagging-the-not-so-secret-weapon-of-agile-development-b21e06e04c97>
+9. <https://forge.medium.com/how-to-become-the-best-in-the-world-at-something-f1b658f93428>
+10. <https://levelup.gitconnected.com/10-must-have-vs-code-extensions-for-developers-7ddc22d81117>
+11. <https://www.integrate.io/ko/blog/postgresql-vs-mysql-which-one-is-better-for-your-use-case-ko/>
+12. <https://maloveforme.tistory.com/102>
 
 ---
 
@@ -86,3 +90,20 @@ Kafka를 현재 메시지 큐로 사용하려고 하는 입장에서, 이를 동
 ## 10 Must-Have VS Code Extensions for Developers
 
 굉장히 유용한 extension이 많아서 써보고 생각해보려한다.
+
+---
+
+## PostgreSQL vs MySQL: Which One is Better for Your Use Case?
+
+: PostgreSQL과 MySQL 중 선택 할 때 고려해야 할 사항에 대한 글
+
+결론
+
+* 복잡한 쿼리와 대규모 데이터베이스를 처리할 수 있는 풍부한 기능을 갖춘 데이터베이스가 필요하신가요? 확장성 면에서 Postgres를 선택하는 것이 좋습니다.
+* 설정 및 관리가 쉽고, 빠르고, 안정적이며, 이해도가 높은 더 간단한 데이터베이스가 필요하신가요? MySQL이 최적입니다.
+
+---
+
+## [자료구조] BloomFilter
+
+블룸필터의 개념과 사용 사례에 대한 글
