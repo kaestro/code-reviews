@@ -3,6 +3,8 @@
 1. <https://kim-dragon.tistory.com/276>
 2. <https://levelup.gitconnected.com/mastering-kubernetes-overcoming-complexity-and-accelerating-your-learning-journey-095acb2c8257>
 3. <https://medium.com/@joaovitorcoelho10/building-a-performance-testing-tool-from-scratch-03dc7acb3687#cf59>
+4. <https://levelup.gitconnected.com/ai-is-discovering-new-antibiotics-a-task-previously-deemed-extremely-challenging-for-humans-7e51b1965d3c>
+5. <https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f>
 
 ---
 
@@ -23,3 +25,19 @@ kubernetes가 무엇인지에 대해서 개요를 제시하고 이에 대한 자
 ## Building a Performance Testing Tool from Scratch
 
 성능 테스트 도구를 만드는 과정에 대한 글이지만, 주요 내용은 golang이 가지는 특성들에 대한 이유이다. 내가 프로젝트를 사용하는데 golang을 선택한 명백한 근거를 가지고 있지 못했다는 생각이 들어, 이를 점검할 자료를 찾고 있던 중이기에 유용했다.
+
+---
+
+## AI is Discovering New Antibiotics, a Task Previously Deemed Extremely Challenging for Humans
+
+'할리신'과 '아바우신'이라는 새로운 항생제를 인공지능을 통해 발견했다는 글. 인공지능이 이런 실전적인 문제를 해결하는 사례를 보면서, 인공지능이 가지는 가능성에 대해 다시 한번 생각해보게 되었다.
+
+---
+
+## TimeStone: Netflix’s High Throughput, Low Latency Priority Queueing System with Built-in Support for Dynamic Workload Scaling
+
+Netflix에서 사용하는 TimeStone이라는 시스템에 대한 글. 우선순위 큐를 처리하기 위해 시스템을 설계하는 과정의 내용이 흥미롭다.
+
+---
+
+##
