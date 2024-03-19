@@ -2,6 +2,7 @@
 
 1. <https://kim-dragon.tistory.com/276>
 2. <https://levelup.gitconnected.com/mastering-kubernetes-overcoming-complexity-and-accelerating-your-learning-journey-095acb2c8257>
+3. <https://medium.com/@joaovitorcoelho10/building-a-performance-testing-tool-from-scratch-03dc7acb3687#cf59>
 
 ---
 
@@ -19,4 +20,6 @@ kubernetes가 무엇인지에 대해서 개요를 제시하고 이에 대한 자
 
 ---
 
-##
+## Building a Performance Testing Tool from Scratch
+
+성능 테스트 도구를 만드는 과정에 대한 글이지만, 주요 내용은 golang이 가지는 특성들에 대한 이유이다. 내가 프로젝트를 사용하는데 golang을 선택한 명백한 근거를 가지고 있지 못했다는 생각이 들어, 이를 점검할 자료를 찾고 있던 중이기에 유용했다.
