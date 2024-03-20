@@ -5,6 +5,7 @@
 3. <https://medium.com/@joaovitorcoelho10/building-a-performance-testing-tool-from-scratch-03dc7acb3687#cf59>
 4. <https://levelup.gitconnected.com/ai-is-discovering-new-antibiotics-a-task-previously-deemed-extremely-challenging-for-humans-7e51b1965d3c>
 5. <https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f>
+6. <https://medium.com/cwan-engineering/rabbitmq-concepts-and-best-practices-aa3c699d6f08>
 
 ---
 
@@ -37,6 +38,12 @@ kubernetes가 무엇인지에 대해서 개요를 제시하고 이에 대한 자
 ## TimeStone: Netflix’s High Throughput, Low Latency Priority Queueing System with Built-in Support for Dynamic Workload Scaling
 
 Netflix에서 사용하는 TimeStone이라는 시스템에 대한 글. 우선순위 큐를 처리하기 위해 시스템을 설계하는 과정의 내용이 흥미롭다.
+
+---
+
+## RabbitMQ Concepts and Best Practices
+
+최근에 채팅 어플리케이션의 메시지 전달을 위한 수단으로 kafka를 사용하려던 계획에서, 다른 기술을 비교할 필요를 느끼게 됐고 그 중 하나가 RabbitMQ이다. 이와 관련한 정보를 찾고 있던 중에 간략한 개요를 알 수 있었고, 이 기술 스택이 비교적 kafka에 비해 가벼워 보인단 인상을 받을 수 있었다. 정확한 비교는 더 해봐야 하겠지만.
 
 ---
 
