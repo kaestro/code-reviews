@@ -6,6 +6,9 @@
 4. <https://levelup.gitconnected.com/ai-is-discovering-new-antibiotics-a-task-previously-deemed-extremely-challenging-for-humans-7e51b1965d3c>
 5. <https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f>
 6. <https://medium.com/cwan-engineering/rabbitmq-concepts-and-best-practices-aa3c699d6f08>
+7. <https://medium.com/dataprophet/mastering-kafka-cluster-understanding-the-essential-concepts-for-success-b7a2b59236d5>
+8. <https://medium.com/@dmosyan/why-do-you-need-api-gateway-770f10e02beb>
+9. <https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d>
 
 ---
 
@@ -47,4 +50,18 @@ Netflix에서 사용하는 TimeStone이라는 시스템에 대한 글. 우선순
 
 ---
 
-##
+## Mastering Kafka Cluster: Understanding the Essential Concepts for Success
+
+kafka에 대한 기본적인 개념과 클러스터를 구성하는 방법에 대한 글. 해당 글에서 kafka는 분산처리를 통해 대용량의 스트림을 처리하는 것이 기존의 RabbitMQ와 같은 Message Queue들과 비교해서 장점이라고 강조하고 있다. 이 부분은 이제 내가 분산 처리가 필요한 프로젝트인지에 대한 고려가 선행해야하고, 테스트할 방법을 만들어서 진행하는 필요가 있단걸 알 수 있었다.
+
+---
+
+## Why Do You Need API Gateway?
+
+API 게이트웨이라는 개념을 이 글을 통해 처음 알게 됐다. 추후에 관련해서 찾아볼 의향이 있다.
+
+---
+
+## We Don’t Sell Saddles Here
+
+우리는 '채팅 프로그램'을 파는 것이 아니라 '기술 혁신'을 판다는 이야기를 slack에서는 하고 있다. 이런 마케팅, 그리고 기술의 본질에 대해 요즈음 고민하게 되는 일이 많아 도움이 많이 됐다.
