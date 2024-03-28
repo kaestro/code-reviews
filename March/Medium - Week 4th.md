@@ -3,6 +3,7 @@
 1. <https://levelup.gitconnected.com/i-learned-both-rust-go-to-find-out-which-one-was-better-spoiler-alert-its-rust-573e0def4978>
 2. <https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31>
 3. <https://medium.com/illumination/wittyfeed-a-40-million-company-that-evaporated-overnight-the-reason-facebook-blocked-them-b7b38c750399>
+4. <https://medium.com/@ashely.crouch/how-disposable-objects-have-lead-to-disposable-people-7e52096b1b23>
 
 ---
 
@@ -46,6 +47,20 @@ WittyFeed는 계좌에 돈이 한 푼도 남지 않았고, 직원들은 급여�
 
 ---
 
-## 
+## 일회용 물건이 일회용 사람을 만들었다
+
+Bic 펜, Temu, Hinge. 이것들의 특징은 무엇일까요? 그것은 이들이 우리에게 한 번 사용하고 버릴 수 있는 편리한 것임을 강조한다는 것입니다. 우리에게 위 제품들은 필요할 때 잠깐 쓰고, 필요 없을 때는 버릴 수 있으면 되니 편하게 사용해보라고 이야기합니다.
+
+그리고 이들을 사용하기 시작하는 순간, 우리는 이들에게서 벗어날 수 없게됩니다.
+
+이처럼 일회용은 본인들이 일회용임을 강조하지만, 일회용의 물품이 아니란 것을 글에서 주장합니다. 그리고 이것들이 가져다주는 사회적인 폐단으로 여러가지가 있으며, Hinge와 같이 사람의 **관계**에 영향을 주는 단계까지 침범하고 있다고 주장합니다.
+
+그리고 마침내 사람을 **일회용**으로 만들고 있다고 말입니다.
+
+사회적으로 인기를 끌고 있는 많은 제품들이 편리함을 내세울 때, 과연 그것은 우리가 편리한 삶을 살 수 있게 해주는 것인지 아니면 이들에 종속되는 일회용 삶을 살게 하는 것인가에 대한 의문을 가지게 하는 글이었습니다.
+
+---
+
+##
 
 ---
