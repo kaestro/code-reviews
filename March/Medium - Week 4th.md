@@ -4,6 +4,7 @@
 2. <https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31>
 3. <https://medium.com/illumination/wittyfeed-a-40-million-company-that-evaporated-overnight-the-reason-facebook-blocked-them-b7b38c750399>
 4. <https://medium.com/@ashely.crouch/how-disposable-objects-have-lead-to-disposable-people-7e52096b1b23>
+5. <https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312>
 
 ---
 
@@ -61,6 +62,21 @@ Bic 펜, Temu, Hinge. 이것들의 특징은 무엇일까요? 그것은 이들�
 
 ---
 
-##
+## 초보 프로그래머로서 저지른 실수들
+
+저자가 초보시절 겪었던 실수들을, 후배들은 이러한 실수를 하지 않기 위해 경험을 공유하고자 작성한 글입니다. 총 25가지의 실수를 나열하고 있으며, 그 중 인상깊었던 것들은 다음의 것들이 있습니다.
+
+* Always write the minimum amount of code that you need today for the solution that you are implementing. Handle edge-cases, sure, but do not add edge-features.
+  * 최근에 계획을 너무 크게 세웠다가 시작 지점을 찾지 못하고 이것저것 학습만 하다가, MVP를 먼저 만들어야한다는 결론에 도달한 적이 있습니다.
+* Writing without Planning & Planning Too much Before Writing Code
+  * 이 때문에 계획을 세우는 것은 중요하지만, 무엇보다 계획을 어떻게 세우는지에 대한 명확한 기준이 있어야한다는 생각을 하게 됐습니다.
+  * 또한 계획을 적당히 세우는 것에 대해서도 생각해보게 됐습니다.
+* What we tend to overlook as beginners is that there is an alternative to using recursive functions. You can just use a Stack structure. Push function calls to a Stack yourself and start popping them out when you are ready to traverse the calls back.
+  * 재귀함수를 작성할 일이 잦지는 않지만, 이에 대해 주의할 필요가 있단 걸 다시 한 번 느꼈습니다.
+  * 재귀함수는 아무래도 성능에서나, 디버깅에서나 많은 면에서 불리할 수 있기 때문입니다.
+* Premature optimization is the root of all evil (or at least most of it) in programming
+  * Donald Knuth의 유명한 말입니다. 알고리즘 문제를 풀다보면 최적화에 대해 완성 전부터 고민하게 되는 경우가 종종 있는데, 주의하려합니다.
+* Reinventing the Wheel
+  * 학습의 측면에서 어느 정도는 이전에 구현된 것들을 만들어보는 노력을 하는 것도 좋지만, 일단은 다른 사람은 어떻게 했는지부터 찾아보는 것이 좋다는 조언을 받기도 했고 이에 따라 내 코드를 작성하기 전에 다른 사람의 것을 먼저 참고해봐야겠다는 생각도 어느 정도 들었습니다.
 
 ---
