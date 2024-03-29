@@ -5,6 +5,7 @@
 3. <https://medium.com/illumination/wittyfeed-a-40-million-company-that-evaporated-overnight-the-reason-facebook-blocked-them-b7b38c750399>
 4. <https://medium.com/@ashely.crouch/how-disposable-objects-have-lead-to-disposable-people-7e52096b1b23>
 5. <https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312>
+6. <https://uxdesign.cc/why-is-the-world-losing-color-56f740f465d4>
 
 ---
 
@@ -78,5 +79,13 @@ Bic 펜, Temu, Hinge. 이것들의 특징은 무엇일까요? 그것은 이들�
   * Donald Knuth의 유명한 말입니다. 알고리즘 문제를 풀다보면 최적화에 대해 완성 전부터 고민하게 되는 경우가 종종 있는데, 주의하려합니다.
 * Reinventing the Wheel
   * 학습의 측면에서 어느 정도는 이전에 구현된 것들을 만들어보는 노력을 하는 것도 좋지만, 일단은 다른 사람은 어떻게 했는지부터 찾아보는 것이 좋다는 조언을 받기도 했고 이에 따라 내 코드를 작성하기 전에 다른 사람의 것을 먼저 참고해봐야겠다는 생각도 어느 정도 들었습니다.
+
+---
+
+## 세상이 색을 잃는 이유
+
+과거와 비교해서 디자인 적인 측면에서 사람들이 더 단조로운 색을 선호하는 경향성이 드러나고 있다는 글. 실제로도 주변에서 보는 전자기기들은 보통 흰색, 회색, 검은색이 주로 선호된다는 생각을 하게 됐다.
+
+이는 사람들이 이전보다 더 색을 통해 개인을 드러내기 보단 무난해 보이려고 하는 경향이 드러나고 있다는 증거가 아닌가? 전반적으로 남들과 비슷해 지려는 경향인가 하는 생각이 든다.
 
 ---
