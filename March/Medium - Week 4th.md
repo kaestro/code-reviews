@@ -1,4 +1,4 @@
-# Weekly Medium Articles - Week 3rd of March
+# Weekly Medium Articles - Week 4th of March
 
 1. <https://levelup.gitconnected.com/i-learned-both-rust-go-to-find-out-which-one-was-better-spoiler-alert-its-rust-573e0def4978>
 2. <https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31>
