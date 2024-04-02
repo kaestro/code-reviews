@@ -1,4 +1,4 @@
-# Algorithms_v2 - Week 3
+# Algorithms_v3 - Week 3
 
 ## <https://github.com/kaestro/algorithms_v2/commit/75b63be9514d70d0a87a95ea8af720819373e93f>, <https://github.com/kaestro/algorithms_v3/commit/74e6968cda4ba8d6e3fe70c7ac23cfba2e2f6f56>
 
