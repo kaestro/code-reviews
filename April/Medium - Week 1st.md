@@ -3,7 +3,7 @@
 1. <https://medium.com/api-center/api-primer-core-concepts-in-api-strategy-and-architecture-b0378a9b2b79>
 2. <https://www.youtube.com/watch?v=d6e41W6ZjtY>
 3. <https://drpicox.medium.com/the-horizon-scandal-1-software-bug-736-convicted-230-jailed-on-false-charges-and-4-suicides-fda27c5044c8>
-4. 
+4. <https://medium.com/swlh/1-homes-in-europe-are-fine-but-theres-a-better-option-5a379176299c>
 
 ---
 
@@ -39,6 +39,12 @@ API를 만드는 일을 업으로 삼겠다고 하면서, 정작 API가 무엇�
 ## The Horizon Scandal: 1 Software Bug, 736 Convicted, 230 Jailed on False Charges, and 4 Suicides
 
 Horizon이라는 은행 소프트웨어에서 ACID가 지켜지지 않는 오류가 있는데, 이를 없다고 주장하면서 736명이 유죄 판결을 받고 230명이 감옥에 갇혔으며 4명이 자살을 했다는 이야기이다. 소프트웨어가 버그가 있다는 부끄러운 일이 아니라 당연하고 오히려 발전의 기회이며, 이를 숨기려 해서는 안 된다는 원칙에 대해 생각하게 됐다. 그리고 쉽게 읽고 넘어가던 ACID 원칙이 어느 정도의 무게감을 가지고 있는지도 체감할 수 있었다.
+
+---
+
+## 1 유로 집은 유럽에서도 괜찮지만 더 나은 선택지가 있다
+
+유럽으로 이주하고 싶은 사람에게 주택을 구하는 방법에 대해 이야기해주는 글이다. 1유로 주택이라는 개념에 대해 처음 알게 됐는데 소멸하는 지방 도시에 주택 수리비를 담보로 1유로에 주택을 구하고 들어와서 주택을 수리하고 살면 수리비를 돌려준다는 것이다. 부동산이 아니라 이웃을 원한다는 멘트가 굉장히 재밌었고, 한국 역시도 지방 공동화가 심각한데 이와 같은 방법으로 지방을 살리는 것들에는 어떤 것이 진행 중일지 궁금하게 됐다.
 
 ---
 
