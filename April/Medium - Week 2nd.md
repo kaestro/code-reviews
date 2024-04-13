@@ -6,6 +6,7 @@
 4. <https://dnastacio.medium.com/hierarchy-of-career-priorities-c18768d32598>
 5. <https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556>
 6. <https://medium.com/weirdo-poetry/the-first-pancake-principle-a67e374bceea>
+7. <https://medium.com/@ltm/dont-be-so-precious-about-what-you-put-out-into-the-world-5e574338ecda>
 
 ---
 
@@ -70,5 +71,13 @@ WTC(World Trading Center)의 붕괴 사례에서 부터 시작해서 수많은 �
 팬 케이크를 구울 때 첫번째 팬케이크는 무조건 실패할 수밖에 없다는 것이 첫 번째 팬케이크 원리이다. 이는 첫 팬케이크를 올리기 전까지는 팬이 충분히 달궈졌는지, 혹은 너무 달궈졌는지 알 지 못하기 때문이다. 그래서 첫 팬케이크는 신에 대한 공물로 안좋은 상태로 굽고, 그 다음부터는 더 좋은 팬케이크를 만들 수 있게 된다.
 
 이는 새로운 일을 시작할 때, 무조건 실패할 수밖에 없다는 것을 이야기하며, 이를 통해 실패를 두려워하지 않고 준비가 완벽해지길 기다리지 않고 시작하라는 것에 대한 좋은 비유라고 생각한다.
+
+---
+
+## 세상에 내놓는 것에 대해 너무 소중하게 생각하지 말라(3.5/5)
+
+Jools Holland와 본인의 사례를 통해, 자신이 엄청나게 노력한 것이 아닌 것이 더 잘 받아들여ㅣ는 사례에 대해 이야기한다. 성공을 계획하고, 내 작업이 어떻게 받아들여질 지에 대해서는 통제할 수 없기 때문에 거기에 걱정하는 데 너무 많은 시간을 써서는 안 된다는 이야기를 하고 있다.
+
+다만 그것보다는 많은 것을 만들고, 공유하면서 자기 자신을 담아낸 것들을 만들어내는 것이 중요하다.
 
 ---
