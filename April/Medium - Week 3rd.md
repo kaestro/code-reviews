@@ -7,6 +7,8 @@
 5. <https://medium.com/wise-well/sleeping-poorly-with-pets-3f5cc1fc9fd3>
 6. <https://medium.com/theuglymonster/how-gris-paints-a-profound-psychological-experience-through-colours-64e783772058>
 7. <https://medium.com/career-paths/if-you-feel-like-you-are-falling-behind-in-your-engineering-career-then-read-this-7bce744a9c1b>
+8. <https://theconversation.com/ozempic-the-miracle-drug-and-the-harmful-idea-of-a-future-without-fat-211661>
+9. <https://www.youtube.com/watch?v=AJSscwZP1Xs>
 
 ---
 
@@ -45,3 +47,14 @@
 커리어에서 뒤쳐지고 있다고 느껴지는 것에 두려워하지 말라는 것이 주요한 이야기. 사람마다 무엇을 이루는 시기는 다를 수 밖에 없고, 미디어에서 이야기하는 것과 다르게 사람이 성취를 이루는 평균적인 연령은 생각보다 많이 높다는 사실을 이야기한다.
 
 ---
+
+## Ozempic: The Miracle Drug and the Harmful Idea of a Future Without Fat(3/5)
+
+비만을 해결하는 약이라는 Ozempic에 대한 기사. 약을 통해 비만을 해결하는 것은 결국 새로운 의존을 낳을 뿐이며, 자살 충동이라는 큰 부작용이 내재된 것이 무시되고 있다는 사실과 지방이 하는 역할을 무시하고 마케팅적으로 무지한 사람들을 속이는 것에 대한 이야기.
+
+---
+
+## 빨리빨리? 불안증? 뇌과학자가 소개하는 한국인이 분노하는 이유? [1편] @CuriousBrainLab
+
+---
+
