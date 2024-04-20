@@ -9,6 +9,8 @@
 7. <https://medium.com/career-paths/if-you-feel-like-you-are-falling-behind-in-your-engineering-career-then-read-this-7bce744a9c1b>
 8. <https://theconversation.com/ozempic-the-miracle-drug-and-the-harmful-idea-of-a-future-without-fat-211661>
 9. <https://www.youtube.com/watch?v=AJSscwZP1Xs>
+10. <https://jsy1110.github.io/2022/google-search-console/>
+11. <https://ykarma1996.tistory.com/188>
 
 ---
 
@@ -58,3 +60,10 @@
 
 ---
 
+## 블로그에 google search가 되도록 하는 방법(4/5)
+
+---
+
+## 고루틴의 동작 원리에 대하여(4/5)
+
+---
