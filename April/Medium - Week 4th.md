@@ -6,6 +6,9 @@
 4. <https://medium.com/publishous/the-dss-system-that-helped-me-cut-my-daily-smartphone-usage-by-90-aa2d88889e30>
 5. <https://medium.com/@profgalloway/war-on-the-young-186ab8e6c478>
 6. <https://medium.com/runners-life/theres-something-about-a-run-in-the-rain-7afbf4a79810>
+7. <https://medium.com/illumination-curated/how-i-discovered-the-secret-to-giving-feedback-in-the-workplace-f401057cfec1>
+8. <https://medium.com/predict/nuclear-fusion-record-smashed-6456859abf27>
+9. <https://blog.medium.com/our-curation-teams-approach-to-keeping-ai-generated-content-out-of-your-recommendations-7e57384d897a>
 
 ---
 
@@ -38,5 +41,21 @@
 ## There’s Something About a Run in the Rain(3.5/5)
 
 사람이 살아가는 데 있어서 놀이는 얼마나 중요한 것인가, 그리고 그 관점에서 달리기를 수단이 아니라 놀이로 바라보면 얼마나 많은 것이 달라지는 지에 대해 이야기한다.
+
+---
+
+## How I Discovered the Secret to Giving Feedback in the Workplace(3.5/5)
+
+---
+
+## Nuclear Fusion Record Smashed(4/5)
+
+한국에서 일어난 역대 핵융합 기록을 갱신한 사건 및 핵융합이 왜 핵분열과 다르게 자연친화적인지에 대한 이야기
+
+---
+
+## Our Curation Team’s Approach to Keeping AI-Generated Content Out of Your Recommendations(4.5/5)
+
+AI가 컨텐츠를 만들어내면서 이에 대응하는 능력을 키울 필요가 있어진 Medium에서 이를 어떤 시각으로 바라보는가, 그리고 어떻게 대응하는지에 대해서 볼 수 있었던 글
 
 ---
