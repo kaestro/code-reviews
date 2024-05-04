@@ -7,6 +7,8 @@
 5. <https://davidgoudet.medium.com/loneliness-is-killing-developers-7c191b10da4e>
 6. <https://medium.com/a-culturated/japan-is-not-your-candyland-44db6618bfc0>
 7. <https://levelup.gitconnected.com/next-in-python-in-30-seconds-b495e5605c82>
+8. <https://goangle.medium.com/golang-improving-your-go-project-with-pre-commit-hooks-a265fad0e02f>
+9. <https://itnext.io/rube-goldberg-cloud-architect-a5bbb357b54d>
 
 ---
 
@@ -41,3 +43,11 @@ shogun 패키지라는 인상깊은 외국인 차별에 대해서 이야기
 ## Python에서 30초 안에 next() 함수를 사용하는 방법(4/5)
 
 python의 iterator와 이를 활용하는 next함수 사용 방법에 대한 소개
+
+---
+
+## goLang 프로젝트를 pre-commit hooks를 사용하여 개선하는 방법(4.5/5)
+
+---
+
+## 지나치게 환경을 자동화하려고 하는 클라우드 아키텍트를 만들려고하는 것에 대해 주의해야 한다(3/5)
