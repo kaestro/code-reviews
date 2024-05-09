@@ -3,6 +3,10 @@
 1. [Rate Limit이란?](https://etloveguitar.tistory.com/126)
 2. [Retry 전략에 대해서(Exponential Backoff, jitter)](https://jungseob86.tistory.com/12)
 3. [Back-off Algorithm for CSMA/CD](https://www.geeksforgeeks.org/back-off-algorithm-csmacd/)
+4. <https://mystria.github.io/archivers/apply-mermaid-diagram-to-github-pages>
+5. <https://medium.com/fossils-et-al/why-the-tiny-arms-t-rex-ae106df8efb4>
+6. <https://medium.com/behavior-design/studies-show-self-compassion-is-the-motivator-youre-missing-affbceaf5ee3>
+7. <https://medium.com/@erin.anne.lynch/what-i-wish-i-had-known-about-being-unemployed-72b931e23bfa>
 
 ---
 
@@ -16,3 +20,25 @@
 > : 서버에 요청을 보낸 후 응답이 오지 않거나 실패했을 때, 일정 시간이 지난 후 다시 요청을 보내는 정책을 의미한다. 서버의 부하를
 > 줄이기 위해 사용되며, 서버에 요청을 보낸 후 시간이 증가하는 형태가 지수적으로 증가하는 Exponential Backoff과, 일정 범위 내에서
 > 랜덤한 시간을 추가하는 Jitter Backoff이 있으며, 이 두 가지를 혼합한 방법도 있다.
+
+---
+
+## Back-off Algorithm for CSMA/CD
+
+---
+
+## Apply Mermaid Diagram to Github Pages
+
+---
+
+## Why the Tiny Arms T-Rex?
+
+---
+
+## Studies Show Self-Compassion is the Motivator You're Missing
+
+---
+
+## What I Wish I Had Known About Being Unemployed
+
+---
